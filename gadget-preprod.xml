@@ -48,7 +48,7 @@
 
     </portal-meta>
   </ModulePrefs>
-  <Content href="http://blox.admin.preprod3.us-east-1.tktm.io/signin" />
+  <Content href="http://ec2-100-25-152-229.compute-1.amazonaws.com:3002/tickets" />
 <!--   <Content type="html">
     <![CDATA[
         <div>
