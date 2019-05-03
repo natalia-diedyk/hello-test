@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="blox-hello-tm" description="blox-hello-tm">
+
+    <!-- Application Icon ID -->
+    <Icon>svg-default</Icon>
+    <!-- Application Icon ID -->
+
+    <Optional feature="content-rewrite">
+      <Param name="exclude-url">*</Param>
+    </Optional>
+
+    <portal-meta schemaVersion="1" type="app-chromeless" launcherExclude="false">
+
+      <!-- Top Bar Navigation -->
+      <context-nav></context-nav>
+      <!-- Top Bar Navigation -->
+
+      <keywords>blox-hello-tm</keywords>
+
+      <applicationDetails>
+        <applicationName>blox-hello-tm</applicationName>
+        <applicationKey>app_blox_preprod</applicationKey>
+        <displayName>blox-hello-tm</displayName>
+        <description>Blox Hello TM</description>
+        <roles>
+          <displayName>Starter Preprod</displayName>
+          <roleName>app_blox_developer</roleName>
+        </roles>
+      </applicationDetails>
+
+      <!-- URL WHITE LIST -->
+      <!-- Any AJAX / API / Asset endpoints your app will be calling should be listed here -->
+      <endpoints>
+        <service>
+          <![CDATA[ ]]>
+        </service>
+      </endpoints>
+      <!-- URL WHITE LIST-->
+
+      <deepLinks>
+        <deepLink prefix="blox" default="false"></deepLink>
+      </deepLinks>
+
+      <feedback>
+        <channel></channel>
+      </feedback>
+
+    </portal-meta>
+  </ModulePrefs>
+  <Content type="html">
+    <![CDATA[
+        <div>
+            <h1>Hello tmONE!</h1>
+        </div>
+    ]]>
+  </Content>
+</Module>
