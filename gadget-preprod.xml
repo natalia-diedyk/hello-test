@@ -48,13 +48,13 @@
 
     </portal-meta>
   </ModulePrefs>
-  <Content href="http://ec2-100-25-152-229.compute-1.amazonaws.com:3002" />
+<!--   <Content href="http://ec2-100-25-152-229.compute-1.amazonaws.com:3002" /> -->
 
-<!--   <Content type="html">
+  <Content type="html">
     <![CDATA[
         <div>
             <h1>Hello tmONE!</h1>
         </div>
     ]]>
-  </Content> -->
+  </Content>
 </Module>
