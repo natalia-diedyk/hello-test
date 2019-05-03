@@ -48,11 +48,12 @@
 
     </portal-meta>
   </ModulePrefs>
-  <Content type="html">
+  <Content href="http://blox.admin.preprod3.us-east-1.tktm.io/signin" />
+<!--   <Content type="html">
     <![CDATA[
         <div>
             <h1>Hello tmONE!</h1>
         </div>
     ]]>
-  </Content>
+  </Content> -->
 </Module>
