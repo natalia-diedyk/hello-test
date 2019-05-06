@@ -48,13 +48,13 @@
 
     </portal-meta>
   </ModulePrefs>
-  <Content href="https://admin-test.mytix.in" />
-
-<!--   <Content type="html">
+<!--   <Content href="https://admin-test.mytix.in" />
+ -->
+  <Content type="html">
     <![CDATA[
         <div>
             <h1>Hello tmONE!</h1>
         </div>
     ]]>
-  </Content> -->
+  </Content>
 </Module>
