@@ -48,13 +48,13 @@
 
     </portal-meta>
   </ModulePrefs>
-  <Content href="http://blox.admin.nonprod3.us-east-1.tktm.io" />
+<!--   <Content href="http://blox.admin.nonprod3.us-east-1.tktm.io" /> -->
 
-<!--   <Content type="html">
+  <Content type="html">
     <![CDATA[
         <div>
             <h1>Hello tmONE!</h1>
         </div>
     ]]>
-  </Content> -->
+  </Content>
 </Module>
